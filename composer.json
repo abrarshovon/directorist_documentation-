@@ -1,0 +1,22 @@
+{
+ 
+ "name": "abrar/directorist-documentation",
+    "description": "A plugin for project",
+    "type": "wordpress-plugin",
+    "version": "1.0.0",
+    "license": "GLI",
+    "authors": [
+        {
+            "name": "abrar"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "DirectoristDocumentation\\": "include/"
+        },
+    
+        "require": {}
+}
+}
+
